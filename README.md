@@ -47,11 +47,9 @@ The design is imported into the 3D printer's software (e.g., Cura or PrusaSlicer
 
 Post-Processing:
 After the print is complete, the casing is carefully removed from the print bed. Any excess material or support structures are removed, and the surface may be smoothed using sanding or other post-processing techniques.
-![WhatsApp Image 2025-01-10 at 18 55 21_6ba307d7](https://github.com/user-attachments/assets/ce08e42b-4d24-4769-80b5-61b7a9295293=200px)
-
-![WhatsApp Image 2025-01-10 at 18 55 22_6a1bc570](https://github.com/user-attachments/assets/5f2616b7-7766-42f2-b7be-0fd7bccfc091=200px)
-
-![WhatsApp Image 2025-01-10 at 18 55 23_47641438](https://github.com/user-attachments/assets/b84f7f90-0f83-44e8-8a5c-5e6609b679ea=200px)
+![WhatsApp Image 2025-01-10 at 18 55 21_6ba307d7](https://github.com/user-attachments/assets/ce08e42b-4d24-4769-80b5-61b7a9295293)
+![WhatsApp Image 2025-01-10 at 18 55 22_6a1bc570](https://github.com/user-attachments/assets/5f2616b7-7766-42f2-b7be-0fd7bccfc091)
+![WhatsApp Image 2025-01-10 at 18 55 23_47641438](https://github.com/user-attachments/assets/b84f7f90-0f83-44e8-8a5c-5e6609b679ea)
 
 
 Steps
