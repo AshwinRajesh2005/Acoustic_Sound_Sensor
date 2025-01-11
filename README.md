@@ -34,11 +34,34 @@ Audacity: For processing and analyzing sound data.
 Sound Sensor (Optional): If using an external sensor for input.
 Computer: For running Audacity and processing data.
 
+3D Printing Process
+
+Designing the Casing:
+The casing is designed using CAD software like Fusion 360 or TinkerCAD. The design is optimized for 3D printing, with correct dimensions and supports for the sensor's components.
+
+Choosing the Material:
+The casing is printed using PLA (Polylactic Acid) or ABS (Acrylonitrile Butadiene Styrene) filaments. These materials are commonly used in 3D printing due to their strength, durability, and ease of use. PLA is particularly beneficial for lightweight applications, while ABS offers greater durability.
+
+Printing the Housing:
+The design is imported into the 3D printer's software (e.g., Cura or PrusaSlicer), where settings like layer height, infill density, and print speed are configured. The 3D printer then prints the casing layer by layer until complete.
+
+Post-Processing:
+After the print is complete, the casing is carefully removed from the print bed. Any excess material or support structures are removed, and the surface may be smoothed using sanding or other post-processing techniques.
+![WhatsApp Image 2025-01-10 at 18 55 21_6ba307d7](https://github.com/user-attachments/assets/ce08e42b-4d24-4769-80b5-61b7a9295293)
+
+![WhatsApp Image 2025-01-10 at 18 55 22_6a1bc570](https://github.com/user-attachments/assets/5f2616b7-7766-42f2-b7be-0fd7bccfc091)
+
+![WhatsApp Image 2025-01-10 at 18 55 23_47641438](https://github.com/user-attachments/assets/b84f7f90-0f83-44e8-8a5c-5e6609b679ea)
+
+
 Steps
 
 Install Audacity:
 
 Download Audacity from the official site: Audacity Download.
+
+![download1001](https://github.com/user-attachments/assets/4330b15e-1600-4fc5-a3f9-128beb0de4db)
+
 
 Setup the Sound Sensor:
 
@@ -57,3 +80,5 @@ Use features like Spectrogram, Frequency Analysis, and Amplitude Envelope to exa
 Save and Export Data:
 
 Once the sound is captured, you can save the analysis or export the audio file for further use.
+
+[Watch the Video Here]("C:\Users\91936\Downloads\WhatsApp Video 2025-01-10 at 18.55.23_e34aa88a.mp4")
