@@ -50,10 +50,10 @@ After the print is complete, the casing is carefully removed from the print bed.
 
 <img src="https://github.com/user-attachments/assets/ce08e42b-4d24-4769-80b5-61b7a9295293" alt="WhatsApp Image 2025-01-10 at 18 55 21_6ba307d7"  width="300px" height="300px">
 
+<img src="https://github.com/user-attachments/assets/5f2616b7-7766-42f2-b7be-0fd7bccfc091" alt="WhatsApp Image 2025-01-10 at 18 55 22" width="300" height="300px">
 
-![WhatsApp Image 2025-01-10 at 18 55 21_6ba307d7](https://github.com/user-attachments/assets/ce08e42b-4d24-4769-80b5-61b7a9295293)
-![WhatsApp Image 2025-01-10 at 18 55 22_6a1bc570](https://github.com/user-attachments/assets/5f2616b7-7766-42f2-b7be-0fd7bccfc091)
-![WhatsApp Image 2025-01-10 at 18 55 23_47641438](https://github.com/user-attachments/assets/b84f7f90-0f83-44e8-8a5c-5e6609b679ea)
+<img src="https://github.com/user-attachments/assets/b84f7f90-0f83-44e8-8a5c-5e6609b679ea" alt="WhatsApp Image 2025-01-10 at 18 55 23_47641438" width="300" height="300px">
+
 
 
 Steps
@@ -83,4 +83,4 @@ Save and Export Data:
 
 Once the sound is captured, you can save the analysis or export the audio file for further use.
 
-[Watch the Video Here]("C:\Users\91936\Downloads\WhatsApp Video 2025-01-10 at 18.55.23_e34aa88a.mp4")
+<iframe width="560" height="315" src=""C:\Users\91936\Downloads\WhatsApp Video 2025-01-10 at 18.55.23_e34aa88a.mp4"" frameborder="0" allowfullscreen></iframe>
