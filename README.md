@@ -83,6 +83,6 @@ Save and Export Data:
 
 Once the sound is captured, you can save the analysis or export the audio file for further use.
 
-<img src="https://github.com/yourusername/yourrepository/raw/main/Screenshot%202025-01-11%20184344.png" alt="Screenshot" width="300px" height=300px>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202025-01-11%20184344.png" alt="Screenshot 2025-01-11 184344" width="300" height="300">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202025-01-11%20184739.png" alt="Screenshot" width="300px" height=300px>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202025-01-11%20184739.png" alt="Screenshot 2025-01-11 184739" width="300" height="300px">
