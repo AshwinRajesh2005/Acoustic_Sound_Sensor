@@ -82,6 +82,7 @@ Use features like Spectrogram, Frequency Analysis, and Amplitude Envelope to exa
 Save and Export Data:
 
 Once the sound is captured, you can save the analysis or export the audio file for further use.
+![Screenshot 2025-01-11 184344](https://github.com/user-attachments/assets/7ccf9872-b45f-4460-b6ac-4eabc1d41f78)
 
 <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202025-01-11%20184344.png" alt="Screenshot 2025-01-11 184344" width="300" height="300">
 
