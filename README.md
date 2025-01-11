@@ -83,4 +83,6 @@ Save and Export Data:
 
 Once the sound is captured, you can save the analysis or export the audio file for further use.
 
-<iframe width="560" height="315" src=""C:\Users\91936\Downloads\WhatsApp Video 2025-01-10 at 18.55.23_e34aa88a.mp4"" frameborder="0" allowfullscreen></iframe>
+<img src="https://github.com/yourusername/yourrepository/raw/main/Screenshot%202025-01-11%20184344.png" alt="Screenshot" width="300px" height=300px>
+
+<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202025-01-11%20184739.png" alt="Screenshot" width="300px" height=300px>
